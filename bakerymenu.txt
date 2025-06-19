@@ -1,0 +1,15 @@
+1,Chocolate_Croissant,Pastry,12.50,20,30/6/2025
+2,Blueberry_Muffin,Muffin,5.80,25,30/6/2025
+3,Cinnamon_Roll,Pastry,4.20,30,30/6/2025
+4,Almond_Croissant,Pastry,13.80,15,30/6/2025
+5,Apple_Tart,Tart,3.90,18,30/6/2025
+6,Sourdough_Bread,Bread,15.00,12,30/6/2025
+7,Bagel,Bread,2.50,20,30/6/2025
+8,Red_Velvet_Cupcake,Cupcake,5.20,22,30/6/2025
+9,Espresso,Drink,12.50,40,30/6/2025
+10,Latte,Drink,13.80,35,30/6/2025
+11,Cappuccino,Drink,14.00,30,30/6/2025
+12,Hot_Chocolate,Drink,13.50,28,30/6/2025
+13,Chocolate_Chip_Cookie,Snack,1.80,50,30/6/2025
+14,Cheesecake_Slice,Dessert,8.50,18,30/6/2025
+15,Matcha_Latte,Drink,12.50,20,30/6/2025
